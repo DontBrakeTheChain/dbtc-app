@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Shop from "./Shop";
 import "./styles.css";
 import CalendarPage from "./CalendarPage";
 
