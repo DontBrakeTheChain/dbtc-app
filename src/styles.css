@@ -19,16 +19,6 @@ body {
   
 }
 
-.img {
-  width: 50%;
-  height: 50vh;
-  border-radius: 300px; /* Радиус скругления */
-  border: 1px solid var(--secondary); /* Параметры рамки */
-  box-shadow: 0 0 7px var(--light-gray); /* Параметры тени */
-  background-image: url(../public/images/daniel-j-schwarz.jpg);
-  background-size: 120%;
-}
-
 .ui-link {
   text-decoration: none;
   color: var(--primary);
